@@ -35,5 +35,5 @@ gen
 pkg/
 src/
 
-./vscode/*
+.vscode/*
 
